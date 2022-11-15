@@ -1,5 +1,7 @@
 # HTML Basics Assignment
 
+Visit site at: https://a-stuart.github.io/exerHtmlBasics/index.html
+
 ## Summary of Steps to Complete (See corresponding sections below.)
 
 - [ ] Fork this assignment so you can work on your own copy.
